@@ -1,0 +1,33 @@
+sentence,intent
+Have a good one.,goodbye
+Bye,goodbye
+"What have you been up to all these years?
+",greeting
+Sit down,order
+"Could you lend me 50 dollars, please?",order
+Be quiet!,order
+Catch you later,goodbye
+Can I take you order?,order
+ See you soon,goodbye
+Will you keep quiet please?,order
+Hey there,greeting
+When was the last time we saw each other?,greeting
+Goodbye,goodbye
+What’s new?,greeting
+See you later!,goodbye
+I’ve got to get going ,goodbye
+I gotta split ,goodbye
+don’t use your mobile in the class,order
+what’s going on?,greeting
+"Where have you been hiding?
+
+",greeting
+"I would like the Spaghetti and Meatballs, to go please.”",order
+open the door,order
+hey man,greeting
+"Let’s take a break, shall we?
+",order
+have a good day,goodbye
+don't break it,order
+What’s happening?,greeting
+It’s been a while,greeting

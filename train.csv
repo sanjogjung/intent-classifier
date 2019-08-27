@@ -1,0 +1,114 @@
+sentence,intent
+Howdy,greeting
+good bye,goodbye
+how are things?,greeting
+"We’d like a table for 5, please.",order
+"Could you make me some tea?
+",order
+Can you do this for me?,order
+Please listen to what I’m saying.,order
+Nice to see you,greeting
+Until next time.,goodbye
+How do you do?,greeting
+close the door,order
+Let's go for a swim,order
+See you later,goodbye
+I gotta head out,goodbye
+It has been a long time.,greeting
+Can you give me a lift?,order
+I gotta take off ,goodbye
+Nice to see you!,greeting
+how’s it going?,greeting
+happy birthday,greeting
+"Whazzup?
+",greeting
+Long time no see ,greeting
+"Don't touch that!
+",order
+Pleased to meet you,greeting
+How’s your day going?,greeting
+shut the door,order
+"Can we have the bill, please",order
+merry christmas,greeting
+"Could you pick up the kids from school, please?",order
+Peace out,goodbye
+hey,greeting
+Have a nice day,goodbye
+Can you come here please?,order
+All right then,goodbye
+It was nice seeing you,goodbye
+how’s everything?,greeting
+happy new year,greeting
+I look forward to our next meeting,goodbye
+What’s up?,greeting
+I must be going,goodbye
+Take care,goodbye
+"
+Can you fetch Mary from the airport?",order
+answer the phone,order
+congratulations,greeting
+Good morning,greeting
+Good to see you,greeting
+come here,order
+what’s going on?,greeting
+I’m out ,goodbye
+look who it is?,greeting
+what’s up?,greeting
+what have you been up to?,greeting
+Alright mate?,greeting
+Good afternoon,greeting
+How’s life been treating you?,greeting
+Peace ,goodbye
+hi,greeting
+How’s your day?,greeting
+Talk to you later,goodbye
+How have things been going?,greeting
+eat your food properly,order
+ Are you OK?,greeting
+how are you feeling today?,greeting
+Can I have the Fried Rice and Egg Rolls? ,order
+Yo!,greeting
+don’t create a scene,order
+How have you been?,greeting
+good night,goodbye
+Stop,order
+look here,order
+What’s cracking?,greeting
+Sayonara!,goodbye
+What’s new?,greeting
+hold it carefully,order
+pass that bottle,order
+"Beat four eggs,",order
+how’s life?,greeting
+Will you shut the door please?,order
+Listen to me carefully!,order
+Please leave me alone,order
+Would you wait here until I’m back?,order
+try to improve your hand writing,order
+How are things?,greeting
+How’ve you been?,greeting
+make me a sandwich,order
+You must wear a coat,order
+be there at 5:00,order
+avoid silly mistakes,order
+Good evening,greeting
+It’s nice to meet you,greeting
+Bye bye!,goodbye
+how’s life?,greeting
+Can you do something for me?,order
+good luck,greeting
+Sup?,greeting
+hello,greeting
+ride carefully,order
+Can you wait a minute?,order
+"I’m off
+",goodbye
+Have a good one.,goodbye
+"Could you bring me that file, please?",order
+Could you post this letter?,order
+"Can I get a drip coffee, please?",order
+don’t make noise,order
+I’m out of here,goodbye
+help me find out information,order
+I gotta run ,goodbye
+play the guitar slowly,order
